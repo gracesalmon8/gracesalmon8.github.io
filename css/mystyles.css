@@ -1,0 +1,95 @@
+html {
+	padding: 0;
+	margin: 0;
+	}
+	
+body {
+	padding: 25px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+	background-color: #F1FAFF;
+}
+	
+header {
+		padding: 25px;
+		background-color: #E0EBF9;
+		color: #800909;
+		-webkit-border-radius: 15px 15px 0 0;
+        border-radius: 15px 15px 0 0;
+        -webkit-box-shadow: 3px 3px 3px 5px ##D4D4D4;
+        box-shadow: 3px 3px 3px 5px ##D4D4D4;
+        font-family: 'Times New Roman';
+		}
+.picture 
+	{ 
+	border: 8px solid white;
+	}
+nav {
+	padding: 10px;
+	float: left;
+	margin-bottom: 30px;
+	}
+	
+main {
+	padding: 25px;
+	padding-left:200px;
+	}
+	
+footer {
+	background-color: #E0EBF9;
+	padding: 10px;
+	-webkit-border-radius: 0 0 15px 15px;
+    border-radius: 0 0 15px 15px;
+    color: #800909;
+	}
+	
+h1 {
+	color: #800909;
+	font-size: 55px;
+	Font-family: 'Satisfy';
+	}
+h2 { 
+	font-size: 21px;
+	margin-top: 14px;
+	margin-bottom: 7px;
+	}
+h3 {
+	margin-top: 14 px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	}
+footer p {
+			text-align:center;
+			}
+			
+nav ul li {
+			list-style-type:none;
+			float: none;
+			padding: 20px;
+			margin-right: 20px;
+			background-color: #E0EBF9;
+			}
+nav li a {
+			text-decoration: none;
+			color: #800909;
+			}
+nav li a:hover {
+				color: #02295B;
+				}
+.job-title {
+			font-weight: bold;
+			padding: 0;
+			margin: 0;
+			}
+.job-place {
+			font-style: italic;
+			padding: 0;
+			margin: 0;
+			} 
+.job-dates {
+			padding: 0;
+			margin: 0;
+}
+
+p { text-indent: 2em; }
